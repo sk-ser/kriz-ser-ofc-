@@ -1,4 +1,4 @@
-#### KRIZ - SER - OFC 
+#### SK - SER - OFC 
 
 
 
@@ -13,7 +13,7 @@
 <a href="##"><img title="" src="KRIZ-BOT-V1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
- <a href="https://github.com/KRIZsir"><img title="Author" src="https://img.shields.io/badge/Author-KRIZ-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919633687665?text=Hello%20KRIZ%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-KRIZ-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/KRIZsir"><img title="Author" src="https://img.shields.io/badge/Author-KRIZ-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+380945798078?text=Hello%20SK%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-KRIZ-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/IwOZg4VGdJq4lTH12aPOzc"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://instagram.com/kannanbro_f_f"><img title="Author" src="https://img.shields.io/badge/Instagram-kannanbro_f_f-violet.svg?style=for-the-badge&logo=Instagram" /></a>
 </p>
@@ -21,7 +21,7 @@
 
 ## SIMPLE METHOD 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/kriz-ser-ofc-/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sk-ser/kriz-ser-ofc-/)
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KANNANSIR/KRIZ-SIR-Qr-code?v=1)
 
